@@ -32,7 +32,7 @@ Here are a few projects I've worked on (or am working on):
 ---
 
 ### 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [LinkedIn](https://www.linkedin.com/in/girivardhan-reddy-vennapusa-79a619264/)  
 - [GitHub](https://github.com/giri521) 
 
 ---
